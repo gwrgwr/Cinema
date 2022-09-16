@@ -1,0 +1,54 @@
+.navbar-color{
+    color: white;
+}
+.parceiros{
+    width: 220px;
+    height: 80px;
+    
+}
+#bradesco{
+    position: relative;
+    left: 60px;
+    top: 60px;
+
+}
+#bradesco-prime{
+    position: relative;
+    left: 150px;
+    top: 60px;
+
+}
+#vivo{
+    position: relative;
+    left: 240px;
+    top: 60px;
+
+}
+#elo{
+    position: relative;
+    left: 330px;
+    top: 60px;
+
+}
+#pringles{
+    position: relative;
+    left: 420px;
+    top: 60px;
+
+}
+.carousel .carrosel {
+    height: 500px;
+  }
+  
+  .carrosel img {
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+      width: 100%;
+      height: auto;
+  }
+.carousel img{
+    margin: auto;
+}
